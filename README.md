@@ -4,5 +4,4 @@ Repositório com as implementações dos padrões de projeto explorados no Lab "
 - Singleton
 - Strategy/Repository
 - Facade
-
-<a href"https://github.com/digitalinnovationone/lab-padroes-projeto-spring> repositorio do professor<a/>
+<a href="https://github.com/digitalinnovationone/lab-padroes-projeto-spring">Repositorio do professor!</a>
